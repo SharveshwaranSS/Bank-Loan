@@ -51,6 +51,7 @@ admin.py
 
 
 ## OUTPUT
+![alt text](image.png)
 ![alt text](<Screenshot 2024-11-19 221226.png>)
 
 Include the screenshot of your admin page.
